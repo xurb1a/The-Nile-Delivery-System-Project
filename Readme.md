@@ -1,0 +1,1 @@
+This is an intermedaite python project to test my learnings in the unpacking operator, the python gotcha and basics knowledge of the language, it has no main and no GUI, I'll be working on it when I get to tkinter module 
